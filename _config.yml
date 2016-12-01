@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ama-team
 
 # Build settings
-theme: clean-jekyll-theme
+theme: 'minima'
 markdown: kramdown
 kramdown:
   input: GFM
