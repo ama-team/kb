@@ -2,10 +2,16 @@
 title: Composer
 ---
 
-[Composer][composer] - это менеджер управления зависимостями для PHP.
+[Composer][site] - это менеджер управления зависимостями для PHP.
 Composer облегчает управление зависимостями проекта, выполняя их 
 установку и обновление пакетов.
 
-  [composer]: https://getcomposer.org
+Composer написан на PHP и не требует для установки ничего, кроме
+стандартной библиотеки.
+
+1. [Установка](install)
+2. [Регистрация дополнительных команд](scripts)
+
+  [site]: https://getcomposer.org
   [packagist]: https://packagist.org
 
