@@ -8,8 +8,6 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    clean-jekyll-theme (0.4.1)
-      jekyll (~> 3.3)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -141,8 +139,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  clean-jekyll-theme
   github-pages (= 105)
+  minima
 
 RUBY VERSION
    ruby 2.2.4p230
