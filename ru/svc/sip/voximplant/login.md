@@ -16,7 +16,7 @@ VoxImplant поддерживает два типа аутентификации
 [https://manage.voximplant.com/#login](https://manage.voximplant.com/#login). 
 После этого будет доступна форма стандартного типа:
 
-![](images/login-main.png)
+![](images/login/login-main.png)
 
 В которую необходимо ввести email, на который зарегистрирован аккаунт,
 и пароль к нему.
@@ -28,7 +28,7 @@ VoxImplant поддерживает два типа аутентификации
 [https://manage.voximplant.com/#loginadmin](https://manage.voximplant.com/#loginadmin), 
 где будет выведена следующая форма:
 
-![](images/login-admin.png)
+![](images/login/login-admin.png)
 
 В этой форме необходимо ввести:
 

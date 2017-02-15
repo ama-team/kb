@@ -8,12 +8,12 @@ tags:
 работы со звонками. Перейти на нее можно через пункт меню 
 "Звонки -> Звонки":
 
-![](images/call-history-menu-entry.png)
+![](images/call-history/call-history-menu-entry.png)
 
 После этого откроется панель совершенных звонков, в которой каждый 
 звонок будет отображен следующим образом:
 
-![](images/call-history-call-entry.png)
+![](images/call-history/call-history-call-entry.png)
 
 Здесь отображается
 
@@ -29,7 +29,7 @@ tags:
 
 Фильтрация звонков осуществляется с помощью панели поиска:
 
-![](images/call-history-search-pane.png)
+![](images/call-history/call-history-search-pane.png)
 
 Здесь можно задать требования к выборке выводимых звонков:
 - Период, в который был совершен звонок
